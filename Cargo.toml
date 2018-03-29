@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Wilfred Hughes <me@wilfred.me.uk>"]
 
 [dependencies]
+egg-mode = "0.10.0"
